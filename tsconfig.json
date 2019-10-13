@@ -35,7 +35,7 @@
   },
 
   "include": [
-    "typings", "src"
+    "ttt_typings", "src"
   ],
 
   "exclude": [

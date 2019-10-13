@@ -72,5 +72,8 @@
   "peerDependency": {
     "multi-token-standard": "^0.7.0",
     "openzeppelin-solidity": "^2.1.2"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0"
   }
 }

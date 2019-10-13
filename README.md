@@ -1,3 +1,8 @@
+# What changed 
+TypeScript 에서 JavaScript 로 test  파일 변경
+자체 토큰(MyToken)을 통해서 test 수행
+
+
 # General Meta Transaction Wrapper Contract for ERC20
 
 Wrapper contract offering meta-transaction methods to any token compliant with the ERC-20 standard.
